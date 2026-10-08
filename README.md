@@ -45,10 +45,10 @@ Follow these steps to set up the project locally.
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Amin-0513/Image-Classification-with-XAI.git
+git clone https://github.com/Amin-0513/XAI-base-Malaria-Detection_dice.git
 
 # Navigate to project directory
-cd Image-Classification-with-XAI
+cd XAI-base-Malaria-Detection_dice
 
 # create python environment
 python -m venv xai
