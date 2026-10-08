@@ -1,0 +1,8 @@
+xai/
+temp_images/
+__pycache__/
+*.pyc
+.git/
+.vscode/
+Results.xlsx
+images/
